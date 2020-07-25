@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1537861566 source:c:\users\pc\desktop\proyecto_2\main.cpp
+	<iostream>
+	"Libro.h"
+	"Menu.h"
+
+1537859009 c:\users\pc\desktop\proyecto_2\include\libro.h
+	<string>
+
+1537861458 c:\users\pc\desktop\proyecto_2\include\menu.h
+	"Libro.h"
+	<iostream>
+
+1537861209 source:c:\users\pc\desktop\proyecto_2\src\libro.cpp
+	"Libro.h"
+	<string.h>
+	<sstream>
+
+1537861458 source:c:\users\pc\desktop\proyecto_2\src\menu.cpp
+	"Menu.h"
+	<string.h>
+
+1538609534 source:d:\proyecto_2\main.cpp
+	<iostream>
+	"Libro.h"
+	"Menu.h"
+	<windows.h>
+
+1538457014 d:\proyecto_2\include\libro.h
+	<string>
+
+1538553182 d:\proyecto_2\include\menu.h
+	"Libro.h"
+	<iostream>
+	<sstream>
+
+1538544952 source:d:\proyecto_2\src\libro.cpp
+	"Libro.h"
+	<string.h>
+	<sstream>
+
+1538609370 source:d:\proyecto_2\src\menu.cpp
+	"Menu.h"
+	<string.h>
+	<windows.h>
+
+1538688620 source:c:\users\pc\onedrive\documentos\estructura de datos i\proyecto_2\main.cpp
+	<iostream>
+	"Libro.h"
+	"Menu.h"
+	<windows.h>
+
+1538457014 c:\users\pc\onedrive\documentos\estructura de datos i\proyecto_2\include\libro.h
+	<string>
+
+1538553182 c:\users\pc\onedrive\documentos\estructura de datos i\proyecto_2\include\menu.h
+	"Libro.h"
+	<iostream>
+	<sstream>
+
+1538544952 source:c:\users\pc\onedrive\documentos\estructura de datos i\proyecto_2\src\libro.cpp
+	"Libro.h"
+	<string.h>
+	<sstream>
+
+1538688276 source:c:\users\pc\onedrive\documentos\estructura de datos i\proyecto_2\src\menu.cpp
+	"Menu.h"
+	<string.h>
+	<windows.h>
+
+1538688620 source:c:\users\marco castro vázquez\onedrive\documentos\estructura de datos i\proyecto_2\main.cpp
+	<iostream>
+	"Libro.h"
+	"Menu.h"
+	<windows.h>
+
+1538457014 c:\users\marco castro vázquez\onedrive\documentos\estructura de datos i\proyecto_2\include\libro.h
+	<string>
+
+1538553182 c:\users\marco castro vázquez\onedrive\documentos\estructura de datos i\proyecto_2\include\menu.h
+	"Libro.h"
+	<iostream>
+	<sstream>
+
+1538544952 source:c:\users\marco castro vázquez\onedrive\documentos\estructura de datos i\proyecto_2\src\libro.cpp
+	"Libro.h"
+	<string.h>
+	<sstream>
+
+1538688276 source:c:\users\marco castro vázquez\onedrive\documentos\estructura de datos i\proyecto_2\src\menu.cpp
+	"Menu.h"
+	<string.h>
+	<windows.h>
+
+1538688620 source:c:\users\marco\onedrive\documentos\documentos\cucei\3er semestre\estructura de datos\estructura de datos i\proyecto_2\main.cpp
+	<iostream>
+	"Libro.h"
+	"Menu.h"
+	<windows.h>
+
+1538457014 c:\users\marco\onedrive\documentos\documentos\cucei\3er semestre\estructura de datos\estructura de datos i\proyecto_2\include\libro.h
+	<string>
+
+1538553182 c:\users\marco\onedrive\documentos\documentos\cucei\3er semestre\estructura de datos\estructura de datos i\proyecto_2\include\menu.h
+	"Libro.h"
+	<iostream>
+	<sstream>
+
+1538544952 source:c:\users\marco\onedrive\documentos\documentos\cucei\3er semestre\estructura de datos\estructura de datos i\proyecto_2\src\libro.cpp
+	"Libro.h"
+	<string.h>
+	<sstream>
+
+1538688276 source:c:\users\marco\onedrive\documentos\documentos\cucei\3er semestre\estructura de datos\estructura de datos i\proyecto_2\src\menu.cpp
+	"Menu.h"
+	<string.h>
+	<windows.h>
+
